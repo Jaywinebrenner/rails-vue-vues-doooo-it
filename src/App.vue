@@ -1,10 +1,11 @@
 <template>
 <div id="app">
   <div class="container">
-    <h1>Just do it List Manager</h1>
+    <h1>People Maker</h1>
     <h6>Powered by: Vue 3 | Vuex 4 | Ruby on Rails 6 | SQL</h6>
   </div>
   <Todos/>
+
   <Users/>
 
 </div>
@@ -35,5 +36,8 @@ export default {
   margin: auto;
   overflow: auto;
   padding: 0 2rem;
+}
+h6, h1 {
+  margin: 0;
 }
 </style>

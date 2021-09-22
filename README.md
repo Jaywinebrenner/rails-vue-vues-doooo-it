@@ -1,29 +1,7 @@
-# just-do-it-frontend-vue
+CD into just-do-it-frontend-api
+rails s
+localhost:3000/api/v1/users
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+CD into just-do-it-frontend
+npm rails s
+localhost:8080

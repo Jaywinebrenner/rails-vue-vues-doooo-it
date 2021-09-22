@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h3>Todos</h3>
+        <!-- <h3>Todos</h3>
         <div class="legend">
             <span>Double click to mark as complete</span>
             <span>
@@ -24,7 +24,7 @@
             @click="deleteTodo(todo.id)" />
               
             </div>
-        </div>
+        </div> -->
 
     </div>
   
